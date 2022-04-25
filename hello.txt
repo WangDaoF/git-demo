@@ -15,6 +15,6 @@ hello git
 hello git
 hello git
 hello git
-hello git
+hello git github update
 hello git master update
 hello git hot-fix update
